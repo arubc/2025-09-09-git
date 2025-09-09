@@ -1,8 +1,8 @@
 # 2025-09-09-git
 
+push: 
 
-Test 1
-Test 2
+pull: git pull origin main
 
-Test 3
-Test 4
+diff: shows you the diffrences from your last known git satus
+
